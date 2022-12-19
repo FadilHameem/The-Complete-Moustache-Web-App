@@ -1,0 +1,14 @@
+h3{
+    font-size: 25px !important;
+}
+
+.btn-info:hover{
+    background-color: black;
+    color:red;
+    box-shadow: 5px 5px 50px darkblue;
+}
+
+canvas{
+    border-style: solid 2px green;
+}
+
